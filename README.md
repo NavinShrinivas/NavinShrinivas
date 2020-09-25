@@ -5,8 +5,6 @@
 
 [![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas)](https://github.com/NavinShrinivas)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on:
   andorid rom development
   ,competetive coding
