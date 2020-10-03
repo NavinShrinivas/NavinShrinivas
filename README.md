@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=NavinShrinivas&style=flat-square" alt="NavinShrinivas" /><br>
 
-[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas)](https://github.com/NavinShrinivas)
+[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/NavinShrinivas)
 
 - 🔭 I’m currently working on:
   andorid rom development
