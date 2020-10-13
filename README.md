@@ -14,7 +14,8 @@
 🌱 I’m currently learning <br>
   1.competitive coding <br> 
   2.android kernel development <br>
-  3.full stack web development <br> <hr>
+  3.Machine learning(insane pace) <br>
+  4.full stack web development(really slowly) <br> <hr>
 👯 I’m looking to collaborate on: <br> 
   1.competitive coding <br> 
   2.web development <br>  <hr>
