@@ -8,7 +8,7 @@
 [![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/NavinShrinivas) <br> <hr>
 
 
-🔭 I’m currently working on: <br>
+>🔭 I’m currently working on: <br>
   >1.competitive coding <br> <hr>
 🌱 I’m currently learning <br>
   >1.competitive coding <br> 
