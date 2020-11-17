@@ -8,16 +8,15 @@
 [![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/NavinShrinivas) <br> <hr>
 
 
->🔭 I’m currently working on: <br>
-  >1.competitive coding <br> <hr>
-🌱 I’m currently learning <br>
-  >1.competitive coding <br> 
-  >2.android kernel development <br>
-  >3.Machine learning(insane pace) <br>
-  >4.full stack web development(really slowly) <br> <hr>
-👯 I’m looking to collaborate on: <br> 
-  >1.competitive coding <br> 
-  >2.web development (me very noob yet) <br>  <hr>
-📫 How to reach me: <br>
+><b>I am good with: </b> <br>
+  >1.competitive coding <br>
+  >2.algorithms and data structures<hr>
+<b> Not too good with,but things I have worked on(working too): </b><br>
+  >1.Android custom rom development <br> 
+  >2.android kernel development <br> <hr>
+<b> I’m planning to learn soon:everyine has to start somewhere :p </b> <br> 
+  >1.Machine learning (very noob yet) <br> 
+  >2.web development (very noob yet) <br>  <hr>
+<b> How to reach me: </b> <br>
   instagram: [![Instagram](https://img.shields.io/badge/dynamic/json?logo=instagram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://www.instagram.com/navin_1110/) &nbsp; &nbsp; &nbsp;telegram: [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://t.me/realnavin) &nbsp; &nbsp; &nbsp;Email:karupal2002@gmail.com
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
