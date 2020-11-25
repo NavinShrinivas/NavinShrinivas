@@ -16,7 +16,7 @@
   >2.android kernel development <br> <hr>
 <b> I’m planning to learn soon:everyine has to start somewhere :p </b> <br> 
   >1.Machine learning (very noob yet) <br> 
-  >2.web development (very noob yet) <br>  <hr>
+  >2.web development(MEAN stack) with js (learning) <br>  <hr>
 <b> Certifications I have: </b> <br>
   >1.3 star silver problem solver in hackerrank <br> <hr>
 <b> Languages i have wokred with or have leanrt: </b> <br>
