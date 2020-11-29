@@ -9,17 +9,17 @@
 
 
 ><b>Programming Languages: </b><br>
- >1.C++
- >2.javascript
- >3.typescript
- >4.octave
- >5.SQL
+ >1.C++<br>
+ >2.javascript<br>
+ >3.typescript<br>
+ >4.octave<br>
+ >5.SQL <br><hr>
 ><b>Frameworks: </b> <br>
- >1.angular
+ >1.angular <br><hr>
 ><b>My Works are in:</b><br>
-  >1.competetive coding
-  >2.Android rom development
-  >3.linux kernel kanging
+  >1.competetive coding<br>
+  >2.Android rom development<br>
+  >3.linux kernel kanging<br><hr>
 <b> How to reach me: </b> <br>
   instagram: [![Instagram](https://img.shields.io/badge/dynamic/json?logo=instagram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://www.instagram.com/navin_1110/) &nbsp; &nbsp; &nbsp;telegram: [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://t.me/realnavin) &nbsp; &nbsp; &nbsp;Email:karupal2002@gmail.com
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
