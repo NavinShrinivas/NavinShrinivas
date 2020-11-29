@@ -10,10 +10,9 @@
 
 ><b>Programming Languages: </b><br>
  >1.C++<br>
- >2.javascript<br>
- >3.typescript<br>
- >4.octave<br>
- >5.SQL <br><hr>
+ >2.java<br>
+ >3.javascript<br>
+ >4.typescript<br><hr>
 ><b>Frameworks: </b> <br>
  >1.angular <br><hr>
 ><b>My Works are in:</b><br>
