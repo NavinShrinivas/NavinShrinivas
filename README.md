@@ -18,7 +18,7 @@
  >3.javascript<br>
  >4.typescript<br><hr>
 ><b>Frameworks: </b> <br>
- >1.angular <br><hr>
+ >1.angular [UNDERWAY] <br><hr>
 ><b>My Works are in:</b><br>
   >1.competetive coding<br>
   >2.Android rom development<br>
