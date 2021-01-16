@@ -7,6 +7,8 @@
 
 [![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/NavinShrinivas) <br>
 
+<img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/> <br>
+
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=large&theme=calm&count_private=true) <br> <hr>
 
 
