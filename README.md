@@ -24,5 +24,13 @@
   >2.Android rom development<br>
   >3.linux kernel kanging<br><hr>
 <b> How to reach me: </b> <br>
-  instagram: [![Instagram](https://img.shields.io/badge/dynamic/json?logo=instagram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://www.instagram.com/navin_1110/) &nbsp; &nbsp; &nbsp;telegram: [![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Navin&labelColor=282c34&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DNavin&longCache=true)](https://t.me/realnavin) &nbsp; &nbsp; &nbsp;Email:karupal2002@gmail.com
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
+[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
+
+
+
+[instagram]: https://www.instagram.com/navin_shrinivas
+[telegram]: https:t.me/Navin1938
+[email]: karupal2002@gmail.com
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
