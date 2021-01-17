@@ -32,6 +32,6 @@
 
 
 [instagram]: https://www.instagram.com/navin_shrinivas
-[telegram]: https:t.me/Navin1938
-[email]: karupal2002@gmail.com
+[telegram]: https://t.me/Navin1938
+[email]: https://karupal2002@gmail.com
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
