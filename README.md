@@ -24,9 +24,10 @@
   >2.Android rom development<br>
   >3.linux kernel kanging<br><hr>
 <b> How to reach me: </b> <br>
+
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
+[<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 
 
 
