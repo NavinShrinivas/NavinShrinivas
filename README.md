@@ -10,18 +10,7 @@
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=large&theme=calm&count_private=true) <br> <hr>
 
 
-><b>Programming Languages: </b><br>
- >1.C++<br>
- >2.java<br>
- >3.javascript<br>
- >4.typescript<br><hr>
-><b>Frameworks: </b> <br>
- >1.angular [UNDERWAY] <br><hr>
-><b>My Works are in:</b><br>
-  >1.competetive coding<br>
-  >2.Android rom development<br>
-  >3.linux kernel kanging<br><hr>
-<b> How to reach me: </b> <br>
+<p>Feel free to go through my repo and star ones u like :)). <br> Dare you KANG</p>
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
