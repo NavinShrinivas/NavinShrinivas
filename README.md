@@ -6,14 +6,19 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 
 - DSA
 - NASM
-
  and also working on various various projects.
  
-<h2> Language I can code in with proficiecny : </h2>
+ <h2>Few things intresting about me:</h2>
+ 
+ - I have not drank a single cup of coffee or tea and I plan to be coffee sober xD :coffee:
+ - 18 years old :one::eight:
+ - Studing in CSE in PES University 
+ 
+<h3> Language I can code in with proficiecny : </h3>
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
-<h2> Tech I have worked with : </h2>
+<h3> Tech I have worked with : </h3>
 
 <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <hr>
 
