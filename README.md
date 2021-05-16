@@ -13,6 +13,7 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
  - I have not drank a single cup of coffee or tea and I plan to be coffee sober xD :coffee:
  - 18 years old :one::eight:
  - Studing in CSE in PES University 
+ - Love to code and problem solve with all the dear life, Yes I am proud geek :) :computer:
  
 <h3> Language I can code in with proficiecny : </h3>
 
