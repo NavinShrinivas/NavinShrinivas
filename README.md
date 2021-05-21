@@ -10,12 +10,12 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
  
  <h2>Few things intresting about me:</h2>
  
- - I have not drank a single cup of coffee or tea and I plan to be coffee sober xD :coffee:
+ - I have not drank a single cup of coffee or tea and I plan to be caffeine sober xD :coffee:
  - 18 years old :one::eight:
- - Studing in CSE in PES University 
- - Love to code and problem solve with all the dear life, Yes I am proud geek :) :computer:
+ - Studing CSE in PES University 
+ - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  
-<h3> Language I can code in with proficiecny : </h3>
+<h3> Language I can code in with proficiency : </h3>
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
