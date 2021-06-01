@@ -14,7 +14,9 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
  - 18 years old :one::eight:
  - Studing CSE in PES University 
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
- 
+
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3> Language I can code in with proficiency : </h3>
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
