@@ -19,11 +19,11 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <h3> Language I can code in with proficiency : </h3>
 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
 <h3> Tech I have worked with : </h3>
 
-<img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <hr>
+<img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <hr>
 
 
 <img src="https://komarev.com/ghpvc/?username=NavinShrinivas&style=flat-square" alt="NavinShrinivas" /> [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNavinShrinivas&longCache=true&theme=dracula)](https://github.com/NavinShrinivas) 
