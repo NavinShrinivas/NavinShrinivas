@@ -32,6 +32,9 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 
 [![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
 
+<p><b>7 day profile visit count : </b></p>
+<img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" />
+
 <h2> Contacts [Feel free to text me anytime...trust me I am open to people] : </h2>
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
