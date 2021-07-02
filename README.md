@@ -47,9 +47,9 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 [instagram]: https://www.instagram.com/navin_shrinivas
 [telegram]: https://t.me/navinshrinivas
 [email]: https://karupal2002@gmail.com
-<br>
+<br> <br>
 
-<h2>Github Metrics : </h2><br>
+<h2> Github Metrics : </h2>
 
 <img align="left" src="https://metrics.lecoq.io/NavinShrinivas"/>
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
