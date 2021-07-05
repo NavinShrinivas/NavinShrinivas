@@ -32,6 +32,8 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 
 [![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NavinShrinivas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
+
 <p><b>7 day profile visit count : </b></p>
 <img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" />
 
