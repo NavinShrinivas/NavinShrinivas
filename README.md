@@ -19,7 +19,7 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 
-<h3> Language I can code in with proficiency : </h3>
+<h3> Languages I can code in with proficiency : </h3>
 
 <img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><br>Does not mean I can't code in other languages pretty well , google ftw xD<br><hr>
 
