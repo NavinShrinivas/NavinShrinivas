@@ -46,9 +46,9 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 
 
 
-[instagram]: mailto:karuapl2002@gmail.com
+[instagram]: https://www.instagram.com/navin_shrinivas
 [telegram]: https://t.me/navinshrinivas
-[email]: https://karupal2002@gmail.com
+[email]: mailto:karupal2002@gmail.com
 <br> <br>
 
 <h2> Commit Graph : </h2>
