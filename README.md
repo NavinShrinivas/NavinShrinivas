@@ -46,7 +46,7 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 
 
 
-[instagram]: https://www.instagram.com/navin_shrinivas
+[instagram]: mailto:karuapl2002@gmail.com
 [telegram]: https://t.me/navinshrinivas
 [email]: https://karupal2002@gmail.com
 <br> <br>
