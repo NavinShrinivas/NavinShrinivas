@@ -51,7 +51,6 @@ Feel free to go through my repo and star ones u like :)) . As of yet I don't hav
 [email]: https://karupal2002@gmail.com
 <br> <br>
 
-<h2> Github Metrics : </h2>
-
-<img align="left" src="https://metrics.lecoq.io/NavinShrinivas"/>
+<h2> Commit Graph : </h2>
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=NavinShrinivas&theme=github"/>
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
