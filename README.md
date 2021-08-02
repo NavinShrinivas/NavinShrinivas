@@ -1,32 +1,35 @@
 <h1> Hola Earthling 👋 </h1>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have reached the place know as "NPOC" which stands for : "Navin's Place Of Code" . I need to flex a little so under these lines you will see few self defined numbers.
-Feel free to go through my repo and star ones u like :)) . As of yet I don't have a portfolio website cus I am busy self learning :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have reached my GitHub Dashboard . I need to flex a little so under these lines you will see few self defined numbers.
+Feel free to go through my repo and star ones u like :)) . Currently I am busy self learning :
 
-- DSA
+- DSA [On an Algorithimic coding grid].
 - NASM
- and also working on various various projects.
+ and also working on various other side projects.
  
  <h2>Few things intresting about me:</h2>
  
+ - Majorly self taught , super passionate about computers in general :)) . :alien:
+ - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  - I have not drank a single cup of coffee or tea and I plan to be caffeine sober xD :coffee:
  - 18 years old :one::eight:
  - Studing CSE in PES University 
- - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
 
 
+<hr>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 
 <h3> Languages I can code in with proficiency : </h3>
 
-<img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><br>Does not mean I can't code in other languages pretty well , google ftw xD<br><hr>
+<img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/><br>Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 <h3> Tech I have worked with : </h3>
 
 <img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <br><br><hr>
 
+<b>So much more to learn , So much more to try out. Time to explore everyting possible!</b>
 
 <img src="https://komarev.com/ghpvc/?username=NavinShrinivas&style=flat-square" alt="NavinShrinivas" /> [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNavinShrinivas&longCache=true&theme=dracula)](https://github.com/NavinShrinivas) 
 
