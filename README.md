@@ -40,7 +40,7 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 <p><b>7 day profile visit count : </b></p>
 <img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" />
 
-<h2> Contacts [Feel free to text me anytime...trust me I am open to people] : </h2>
+<h2> Connect with me: </h2>
 
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
