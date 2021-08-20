@@ -4,8 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have reached my GitHub Dashboard . I need to flex a little so under these lines you will see few self defined numbers.
 Feel free to go through my repo and star ones u like :)) . Currently I am busy self learning :
 
-- DSA [On an Algorithimic coding grid].
-- NASM
+- Rust Lang
+- NASM 
  and also working on various other side projects.
  
  <h2>Few things intresting about me:</h2>
