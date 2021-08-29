@@ -37,8 +37,8 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinShrinivas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl"/>
 </p>
-<p><b>7 day profile visit count : </b></p>
-<img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" />
+<!-- <p><b>7 day profile visit count : </b></p>
+<img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" /> -->
 
 <h2> Connect with me: </h2>
 
