@@ -33,10 +33,11 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 
 <img src="https://komarev.com/ghpvc/?username=NavinShrinivas&style=flat-square" alt="NavinShrinivas" /> [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNavinShrinivas&longCache=true&theme=dracula)](https://github.com/NavinShrinivas) 
 
-[![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;<br>[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
-<p>
+[![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;
+ <br>[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinShrinivas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl"/>
-</p>
+
+
 <!-- <p><b>7 day profile visit count : </b></p>
 <img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" /> -->
 
