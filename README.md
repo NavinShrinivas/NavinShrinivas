@@ -12,8 +12,8 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
  
  - Majorly self taught , super passionate about computers in general :)) . :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
- - I have not drank a single cup of coffee or tea and I plan to be caffeine sober xD :coffee:
- - 18 years old :one::eight:
+ - I have not drank a single cup of coffee or tea and I plan remain caffeine sober xD :coffee:
+ - 19 years old :one::nine:
  - Studying CSE in PES University 
 
 
