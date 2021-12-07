@@ -27,7 +27,8 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 
 <h3> Tech I have worked with : </h3>
 
-<img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <br><br><hr>
+<img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <img align="left" src="https://img.icons8.com/office/40/000000/react.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/graphql.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br><br><hr>
+
 
 <b>So much more to learn , So much more to try out. Time to explore everyting possible!</b>
 
@@ -36,10 +37,6 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 [![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;
  <br>[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinShrinivas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl"/>
-
-
-<!-- <p><b>7 day profile visit count : </b></p>
-<img src="https://profile-counter.glitch.me/NavinShrinivas/count.svg" /> -->
 
 <h2> Connect with me: </h2>
 
