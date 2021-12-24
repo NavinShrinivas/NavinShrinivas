@@ -27,7 +27,11 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 
 <h3> Tech I have worked with : </h3>
 
-<img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <img align="left" src="https://img.icons8.com/office/40/000000/react.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/graphql.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br><br><br><br><br><br><hr>
+<img align='left' src="https://img.icons8.com/color/48/000000/linux.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/heroku.png"/> <img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/> <br> <br>
+
+<h3> Libraries/Frameworks I have worked with : </h3>
+
+<img align="left" src="https://img.icons8.com/office/40/000000/react.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/graphql.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <br><br><br><br><br><br><hr>
 
 
 <b>So much more to learn , So much more to try out. Time to explore everyting possible!</b>
