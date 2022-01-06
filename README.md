@@ -8,6 +8,8 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 - NASM 
  and also working on various other side projects.
  
+ After much deliberation, I have finally settled on my domains of expertise [not even close to an expert yet :/],SYSTEMS PROGRAMMING!Lemme get to work now :)
+ 
  <h2>Few things intresting about me:</h2>
  
  - Majorly self taught , super passionate about computers in general :)) . :alien:
@@ -23,7 +25,9 @@ Feel free to go through my repo and star ones u like :)) . Currently I am busy s
 
 <h3> Languages I can code in with proficiency : </h3>
 
-<img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img align='left' src="https://img.icons8.com/color/48/000000/python.png"/> <img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png"/><br><br> Does not mean I can't code in other languages pretty well , google ftw xD<br>
+<img align='left' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img align='left' src="https://img.icons8.com/color/48/000000/python.png"/><img align="left" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img align="left" src="https://www.rust-lang.org/logos/rust-logo-64x64.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<br><br>
+Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 <h3> Tech I have worked with : </h3>
 
