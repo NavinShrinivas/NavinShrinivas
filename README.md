@@ -2,13 +2,9 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have reached my GitHub Dashboard . I need to flex a little so under these lines you will see few self defined numbers.
-Feel free to go through my repo and star ones u like :)) . Currently I am busy self learning :
+Feel free to go through my repo and star ones u like :)) . Currently I am wokring on my problem solving skills and build cool, stable, fast and scalable applications!
 
-- Rust Lang
-- NASM 
- and also working on various other side projects.
- 
- After much deliberation, I have finally settled on my domains of expertise [not even close to an expert yet :/],SYSTEMS PROGRAMMING!Lemme get to work now :)
+My domain of preference is Systems Engineering
  
  <h2>Few things intresting about me:</h2>
  
