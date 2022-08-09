@@ -27,11 +27,17 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 <b>So much more to learn , So much more to try out. Time to explore everyting possible!</b>
 
-<img src="https://komarev.com/ghpvc/?username=NavinShrinivas&style=flat-square" alt="NavinShrinivas" /> [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNavinShrinivas&longCache=true&theme=dracula)](https://github.com/NavinShrinivas) 
+## Stats :
 
-[![Top Langs align=center](https://github-readme-stats.vercel.app/api/top-langs/?username=NavinShrinivas&layout=compact&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)&nbsp;&nbsp;
- <br>[![Navin's github stats](https://github-readme-stats.vercel.app/api?username=NavinShrinivas&hide=issues&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/NavinShrinivas)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinShrinivas&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl"/>
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinShrinivas&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavinShrinivas&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinShrinivas&theme=github_dark" />
+
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinShrinivas&theme=github_dark" />
+
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NavinShrinivas&theme=github_dark&utcOffset=8" />
 
 <h2> Connect with me: </h2>
 
