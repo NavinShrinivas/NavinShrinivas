@@ -1,18 +1,19 @@
 <h1> Hola Earthling 👋 </h1>
 
+![](https://komarev.com/ghpvc/?username=NavinShrinivas)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You have reached my GitHub Dashboard . I need to flex a little so under these lines you will see few self defined numbers.
-Feel free to go through my repo and star ones u like :)) . Currently I am wokring on my problem solving skills and build cool, stable, fast and scalable applications!
+You have reached my GitHub Dashboard. I need to flex a little so under these lines you will see few self defined numbers.
+Feel free to go through my repo and star ones u like :)) . Currently I am working on my problem solving skills and build cool, stable, fast and scalable applications!
 
-My domain of preference is Systems Engineering
+My domain of preference is Systems Engineering.
  
  <h2>Few things intresting about me:</h2>
  
- - Majorly self taught , super passionate about computers in general :)) . :alien:
+ - Majorly self taught , super passionate about computers in general :)) :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  - I have not drank a single cup of coffee or tea and I plan remain caffeine sober xD :coffee:
  - 19 years old :one::nine:
- - Studying CSE in PES University 
+ - Studying CSE in PES University 🎓
 
 
 <hr>
@@ -25,7 +26,7 @@ My domain of preference is Systems Engineering
 <br><br>
 Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
-<b>So much more to learn , So much more to try out. Time to explore everyting possible!</b>
+<b>So much more to learn, so much more to try out. Time to explore everyting possible!</b>
 
 ## Stats :
 
