@@ -12,7 +12,7 @@ My domain of preference is Systems Engineering.
  - Majorly self taught , super passionate about computers in general :)) :alien:
  - Love to code and problem solve with all my dear life, Yes I am proud geek :) :computer:
  - I have not drank a single cup of coffee or tea and I plan remain caffeine sober xD :coffee:
- - 19 years old :one::nine:
+ - 20 years old :two::zero:
  - Studying CSE in PES University 🎓
 
 
