@@ -30,15 +30,19 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 ## Stats :
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavinShrinivas&theme=github_dark" />
 
 <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavinShrinivas&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinShrinivas&theme=github_dark" />
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinShrinivas&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavinShrinivas&theme=github_dark" />
+<img src="https://api.githubtrends.io/user/svg/NavinShrinivas/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark">
 
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NavinShrinivas&theme=github_dark&utcOffset=8" />
+<br><br>
+
+<h2> Github Wrapped 2022 </h2>
+
+![github-wrapped](https://user-images.githubusercontent.com/42774281/205117311-2db03242-b20b-4fd4-ba86-8e7a18b4721c.png)
+
 
 <h2> Connect with me: </h2>
 
