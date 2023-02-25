@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=NavinShrinivas)
 
-You have reached my GitHub Dashboard. I need to flex a little so under these lines you will see few self defined numbers.
-Feel free to go through my repo and star ones u like :)) . Currently I am working on my problem solving skills and build cool, stable, fast and scalable applications!
+You have reached my GitHub Dashboard. Under these lines you will see few self defined numbers.
+Feel free to go through my repo and star ones u like :)) . Currently I am working on my problem solving skills and regualrly build cool, stable, fast and scalable applications!
 
 My domain of preference is Systems Engineering.
  
@@ -35,13 +35,11 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinShrinivas&theme=github_dark" />
 
-<img src="https://api.githubtrends.io/user/svg/NavinShrinivas/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark">
+<!-- <img src="https://api.githubtrends.io/user/svg/NavinShrinivas/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"> -->
 
-<br><br>
+<!-- <h2> Github Wrapped 2022 </h2>
 
-<h2> Github Wrapped 2022 </h2>
-
-![github-wrapped](https://user-images.githubusercontent.com/42774281/205117311-2db03242-b20b-4fd4-ba86-8e7a18b4721c.png)
+![github-wrapped](https://user-images.githubusercontent.com/42774281/205117311-2db03242-b20b-4fd4-ba86-8e7a18b4721c.png) -->
 
 
 <h2> Connect with me: </h2>
@@ -50,14 +48,9 @@ Does not mean I can't code in other languages pretty well , google ftw xD<br>
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][email]
 
-
-
-
 [instagram]: https://www.instagram.com/navin_shrinivas
 [telegram]: https://t.me/navinshrinivas
 [email]: mailto:karupal2002@gmail.com
 <br> <br>
 
-<h2> Commit Graph : </h2>
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=NavinShrinivas&theme=github"/>
 <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
