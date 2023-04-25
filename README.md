@@ -1,6 +1,6 @@
 <h1> Hola Earthling 👋 </h1>
 
-![](https://komarev.com/ghpvc/?username=NavinShrinivas)
+![](https://komarev.com/ghpvc/?username=NavinShrinivas) [Not unique visitors :(]
 
 You have reached my GitHub Dashboard. Under these lines you will see few self defined numbers.
 Feel free to go through my repo and star ones u like :)) . Currently I am working on my problem solving skills and regualrly build cool, stable, fast and scalable applications!
