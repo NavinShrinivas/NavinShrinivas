@@ -17,7 +17,7 @@
 <!---->
 <!---->
 <!-- <hr> -->
-<!-- <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'> --> -->
+<!-- <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'> -->
 <!---->
 <!---->
 <!-- <h3> Languages I use to build thing : </h3> -->
@@ -35,11 +35,11 @@
 <!---->
 <!-- <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavinShrinivas&theme=github_dark" /> -->
 <!---->
-<!-- <!-- <img src="https://api.githubtrends.io/user/svg/NavinShrinivas/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"> --> -->
+<!-- <!-- <img src="https://api.githubtrends.io/user/svg/NavinShrinivas/langs?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"> --> 
 <!---->
 <!-- <!-- <h2> Github Wrapped 2022 </h2> -->
 <!---->
-<!-- ![github-wrapped](https://user-images.githubusercontent.com/42774281/205117311-2db03242-b20b-4fd4-ba86-8e7a18b4721c.png) --> -->
+<!-- ![github-wrapped](https://user-images.githubusercontent.com/42774281/205117311-2db03242-b20b-4fd4-ba86-8e7a18b4721c.png) -->
 <!---->
 <!---->
 <!-- <h2> Connect with me: </h2> -->
@@ -53,5 +53,5 @@
 <!-- [email]: mailto:karupal2002@gmail.com -->
 <!-- <br> <br> -->
 <!---->
-<!-- <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> -->
+<!-- <!--**NavinShrinivas/NavinShrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 A programmer, dreamer and systems enthusiast. 
